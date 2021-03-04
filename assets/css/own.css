@@ -1,0 +1,19 @@
+.product-img{
+    min-width: 180px;
+    min-height: 200px;
+    max-height: 280px;
+    max-width: 268px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size:cover;
+}
+
+
+
+
+@media screen and (min-width:310px){
+    p{
+        height: 16px;
+        
+    }
+}
